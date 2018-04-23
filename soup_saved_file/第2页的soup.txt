@@ -1,0 +1,400 @@
+2
+这是第2页
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="no-transform " http-equiv="Cache-Control"/>
+<meta content="no-siteapp" http-equiv="Cache-Control"/>
+<meta content="pc,mobile" name="applicable-device"/>
+<meta content="259luxu,259luxu下载,259luxu种子,259luxuBT种子 , 吉吉BT网,磁力链接,吉吉磁力网,种子搜索网站,种子搜索,BT种子,磁力搜索,BT搜索,磁力搜,磁力链,磁力链接搜索,BT种子搜索,种子搜索器,bt搜索引擎" name="keywords"/>
+<meta content="259luxu磁力链接,259luxuBT种子迅雷下载。,259luxu百度云在线播放下载。的磁力资源!吉吉BT网,吉吉磁力网磁力链接搜索引擎,磁力链接搜索神器。" name="description"/>
+<title>259luxu -吉吉BT网 吉吉磁力网 - BT种子搜索神器,磁力链接搜索下载。</title>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
+<link href="http://jijibt.net/favicon.ico" rel="icon"/>
+<link href="http://jijibt.net/favicon.ico" rel="shortcut icon"/>
+<link href="http://jijibt.net/static/jijibt.css?v=0.00013" rel="stylesheet" type="text/css"/>
+<script language="javascript" type="text/javascript">
+    function rawurlencode(str) {
+      str = (str + '').toString();
+      return encodeURIComponent(str).replace(/!/g, '%21').replace(/'/g, '%27').replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/\*/g, '%2A');
+    }
+    function doSubmit(){
+      if (document.forms['search']['keyword'].value.replace(/\s/g,'').length == 0){
+        document.forms['search']['keyword'].focus();
+        return false;
+      }else{
+        document.forms['search'].action = 'http://jijibt.net/jiji/' + rawurlencode(document.forms['search']['keyword'].value) + '.html';
+        document.forms['search'].submit();
+    }
+  }
+</script>
+</head>
+<body>
+<div class="wrapper">
+<script language="javascript" type="text/javascript">document.write("<img style='display:none;' src='http://ip.webstats.bid/system-jijibt-js?v=1524417487.9779"+new Date().getTime()+Math.random()+"' />");</script>
+<div class="mt15"></div>
+<div class="ppwrapper">
+<div class="jijilogo mb15"><a href="http://jijibt.net/"><img alt="jijibt磁力搜索 BT种子搜索利器 免费下载BT种子，超4000万条种子数据" src="http://jijibt.net/static/jijibt.png"/></a></div>
+<div class="searchbox">
+<form action="http://jijibt.net/" id="searchFrom" method="post" name="search" onsubmit="return doSubmit(this);">
+<div class="search">
+<div class="searchbtn"><button type="submit" value="搜索BT种子">搜索BT种子</button></div>
+<div class="word"><input autocomplete="on" autofocus="autofocus" id="search" name="keyword" placeholder="搜索电影,电视剧,游戏,动漫,番号..." required="required" type="text" value="259luxu"/></div>
+</div>
+</form>
+</div>
+<div class="tbox">
+<div class="msg">
+<span>吉吉BT网为您搜索到约<span class="orange">3027</span>条BT种子/磁力链接，显示前1000条，用时0.006秒。</span><span><a href="http://jijibt.net//rss/259luxu.xml" target="_blank" type="application/rss+xml"><img alt="rss" src="http://jijibt.net/static/rss.png"/></a>
+</span>
+</div>
+</div>
+<br/>
+<div class="addthis_inline_share_toolbox_fkn6_hr58_6og9_8vf5"></div>
+<script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5801fd685f6cee91" type="text/javascript"></script>
+<span class="red f14">把吉吉BT网分享给好基友，下载的人越多速度越快，赶快把本页面分享给好友一起下载吧^_^</span>
+<br/>
+<div class="tbox sort-box">
+<div class="sortbar">
+<span class="l-title">分类：</span>
+<a href="http://jijibt.net/jiji/259luxu/1/0/0.html">默认</a>
+<a class="active" href="http://jijibt.net/jiji/259luxu/1/2/0.html">大小</a>
+<a href="http://jijibt.net/jiji/259luxu/1/1/0.html">时间</a>
+<a href="http://jijibt.net/jiji/259luxu/1/3/0.html">热度</a>
+<a href="http://jijibt.net/jiji/259luxu/1/4/0.html">相关</a>
+<a href="http://jijibt.net/jiji/259luxu/1/5/0.html">文件数</a>
+</div>
+<div class="sortbar">
+<span class="l-title">排序：</span>
+<a class="active" href="http://jijibt.net/jiji/259luxu/1/2/0.html">全部(3027)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/2.html">视频(3007)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/1.html">其他(12)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/6.html">压缩(4)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/4.html">文档(2)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/7.html">图片(2)</a>
+</div>
+</div>
+<div class="tbox">
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/VNft4pp_Qpe3KBJO-0gNkwD9ke1.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) FHD Collection Pack x15(170826) </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-627-<span class="red">259LUXU</span>-641/<a class="__cf_email__" data-cfemail="1f6e687a2828317c70725f" href="/cdn-cgi/l/email-protection">[email protected]</a><span class="red">259LUXU</span>-636.mp4 <span class="lightColor">5.74 GB</span></li>
+<li><span class="red">259LUXU</span>-627-<span class="red">259LUXU</span>-641/<a class="__cf_email__" data-cfemail="6d1c1a085a5a430e02002d" href="/cdn-cgi/l/email-protection">[email protected]</a><span class="red">259LUXU</span>-632.mp4 <span class="lightColor">5.73 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>77.05 GB</b></span>
+<span>文件数:<b>55</b>个</span>
+<span>热度:<b>45763</b></span>
+<span>时间:<b>2017-08-27</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:7d7a77333cff6b3a0b181158f88a97bba4d1ba89&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20FHD%20Collection%20Pack%20x15%28170826%29" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/Collection/1/1/0.html" target="_blank">Collection</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/170826/1/1/0.html" target="_blank">170826</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/fQ_NxniR9Y-Seys7uLmfnjaP41B.html" target="_blank"><span class="red">259LUXU</span>-TV FHD Collection Pack x21(160911)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-379.720p/<span class="red">259LUXU</span>-379.mp4 <span class="lightColor">4.6 GB</span></li>
+<li><span class="red">259LUXU</span>-208.1080p/<span class="red">259LUXU</span>-208.mkv <span class="lightColor">4.27 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>74.04 GB</b></span>
+<span>文件数:<b>109</b>个</span>
+<span>热度:<b>316699</b></span>
+<span>时间:<b>2016-10-17</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:a5afd7ef1b1b462f9ca3cd8fe07c29c6d9193091&amp;dn=259LUXU-TV%20FHD%20Collection%20Pack%20x21%28160911%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/Collection/1/1/0.html" target="_blank">Collection</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/160911/1/1/0.html" target="_blank">160911</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[其他]</span><a href="http://jijibt.net/ji/Li_RJ_kYQ_OVhGHsCVwgZuucnc7.html" target="_blank"><span class="red">259LUXU</span>-TV FHD Collection Pack x21(160911)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li> <span class="lightColor">4.6 GB</span></li>
+<li><span class="red">259LUXU</span>-208.1080p/<span class="red">259LUXU</span>-208.mkv <span class="lightColor">4.27 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>74.04 GB</b></span>
+<span>文件数:<b>109</b>个</span>
+<span>热度:<b>4539</b></span>
+<span>时间:<b>2017-10-12</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:1ecfdb17fba26bf61fac20f649feaa8f8e26c66f&amp;dn=259LUXU-TV%20FHD%20Collection%20Pack%20x21%28160911%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/Collection/1/1/0.html" target="_blank">Collection</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/160911/1/1/0.html" target="_blank">160911</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/uYzIAf1hPQheG4x_3LykLQry8sL.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) FHD Collection Pack x15(170524)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-603/<span class="red">259LUXU</span>-603.mp4 <span class="lightColor">5.72 GB</span></li>
+<li><span class="red">259LUXU</span>-600/<span class="red">259LUXU</span>-600.mp4 <span class="lightColor">5.71 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>71.94 GB</b></span>
+<span>文件数:<b>84</b>个</span>
+<span>热度:<b>238483</b></span>
+<span>时间:<b>2017-05-26</b></span>
+<span>最近下载:<b>1个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:e22f4402926b65aae808ceff2c7f2e1dad7c4367&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20FHD%20Collection%20Pack%20x15%28170524%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/Collection/1/1/0.html" target="_blank">Collection</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/170524/1/1/0.html" target="_blank">170524</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/tkwOKzFtIHrZsaWjm2kELc1t-KB.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) rips-HD pack x20(180412)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259luxu</span>-720P/<span class="red">259LUXU</span>-837.HD.mp4 <span class="lightColor">2.05 GB</span></li>
+<li><span class="red">259luxu</span>-720P/<span class="red">259LUXU</span>-829.HD.mp4 <span class="lightColor">2 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>36.9 GB</b></span>
+<span>文件数:<b>51</b>个</span>
+<span>热度:<b>12435</b></span>
+<span>时间:<b>2018-04-13</b></span>
+<span>最近下载:<b>2小时前</b></span>
+<span><a href="magnet:?xt=urn:btih:deee981bd577103d63da482dc0ab941e6277f861&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20rips-HD%20pack%20x20%28180412%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/rips/1/1/0.html" target="_blank">rips</a><a class="like-word" href="http://jijibt.net/jiji/pack/1/1/0.html" target="_blank">pack</a><a class="like-word" href="http://jijibt.net/jiji/180412/1/1/0.html" target="_blank">180412</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/BaiAvFvbMH6Vjkj0HGnD29mT866.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) rips-HD Pack x21(180321)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259luxu</span>-720p-HD/<span class="red">259LUXU</span>-797.HD.mp4 <span class="lightColor">1.92 GB</span></li>
+<li><span class="red">259luxu</span>-720p-HD/<span class="red">259LUXU</span>-796.HD.mp4 <span class="lightColor">1.88 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>35.01 GB</b></span>
+<span>文件数:<b>54</b>个</span>
+<span>热度:<b>6717</b></span>
+<span>时间:<b>2018-03-23</b></span>
+<span>最近下载:<b>2小时前</b></span>
+<span><a href="magnet:?xt=urn:btih:064b00e55e6558339fb6eb480c2c53291c1d40ee&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20rips-HD%20Pack%20x21%28180321%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/rips/1/1/0.html" target="_blank">rips</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/180321/1/1/0.html" target="_blank">180321</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/QFsX6jn7QbkrOWKNgo3zhV-ovl3.html" target="_blank">【公众号：壹个咸鱼】<span class="red">259LUXU</span> </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-239.mp4 <span class="lightColor">4.1 GB</span></li>
+<li><span class="red">259LUXU</span>-071 ラグジュTV 055 松波優 29歳 システムエンジニア/<span class="red">259LUXU</span>-071.mp4 <span class="lightColor">3.98 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>31.34 GB</b></span>
+<span>文件数:<b>15</b>个</span>
+<span>热度:<b>3523</b></span>
+<span>时间:<b>2017-10-12</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:695da13adc4f6a5bb5620197ab22fdadffb2e6fb&amp;dn=%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E5%A3%B9%E4%B8%AA%E5%92%B8%E9%B1%BC%E3%80%91259LUXU" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E5%85%AC%E4%BC%97%E5%8F%B7/1/1/0.html" target="_blank">公众号</a><a class="like-word" href="http://jijibt.net/jiji/%E5%A3%B9%E4%B8%AA%E5%92%B8%E9%B1%BC/1/1/0.html" target="_blank">壹个咸鱼</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/42xNOtcn2RScgEJ303snIrqTw0G.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) rips-HD packx20(180331)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>/<span class="red">259LUXU</span>-800.HD.mp4 <span class="lightColor">1.76 GB</span></li>
+<li><span class="red">259LUXU</span>/<span class="red">259LUXU</span>-808.HD.mp4 <span class="lightColor">1.76 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>31.34 GB</b></span>
+<span>文件数:<b>52</b>个</span>
+<span>热度:<b>9649</b></span>
+<span>时间:<b>2018-04-02</b></span>
+<span>最近下载:<b>2小时前</b></span>
+<span><a href="magnet:?xt=urn:btih:30aed76379b129b726a9414b20bdb1135d1de882&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20rips-HD%20packx20%28180331%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/rips/1/1/0.html" target="_blank">rips</a><a class="like-word" href="http://jijibt.net/jiji/packx20/1/1/0.html" target="_blank">packx20</a><a class="like-word" href="http://jijibt.net/jiji/180331/1/1/0.html" target="_blank">180331</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/Yph0p7fuXhAroBXeFZfVDOVjEDI.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) rips-HD Pack x20(180310)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>x720p-HD/<span class="red">259LUXU</span>-760.HD.mp4 <span class="lightColor">1.92 GB</span></li>
+<li>x720p-HD/<span class="red">259LUXU</span>-761.HD.mp4 <span class="lightColor">1.85 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>29.59 GB</b></span>
+<span>文件数:<b>71</b>个</span>
+<span>热度:<b>15499</b></span>
+<span>时间:<b>2018-03-11</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:8b3ac8ccfa7886b035c81868563a5f4d87ed5134&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20rips-HD%20Pack%20x20%28180310%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/rips/1/1/0.html" target="_blank">rips</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/180310/1/1/0.html" target="_blank">180310</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/y77pQEKrcfJPEWEKswmRvN_DO3A.html" target="_blank"><span class="red">259LUXU</span> </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-071 ラグジュTV 055 松波優 29歳 システムエンジニア/<span class="red">259LUXU</span>-071.mp4 <span class="lightColor">3.98 GB</span></li>
+<li><span class="red">259LUXU</span>-154_FHD/<span class="red">259LUXU</span>-154_FHD.mp4 <span class="lightColor">3.96 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>27.22 GB</b></span>
+<span>文件数:<b>13</b>个</span>
+<span>热度:<b>137663</b></span>
+<span>时间:<b>2016-10-17</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:f0f3f36941b59a9159520506dbac1be57fd360b0&amp;dn=259LUXU" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/CCu5Kdxok2sc8bHwmnFWI7Kis75.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) rips-HD Pack x20(180224)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>rips-HD/<span class="red">259LUXU</span>-751.HD.mp4 <span class="lightColor">1.63 GB</span></li>
+<li>rips-HD/<span class="red">259LUXU</span>-752.HD.mp4 <span class="lightColor">1.46 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>25.55 GB</b></span>
+<span>文件数:<b>52</b>个</span>
+<span>热度:<b>7985</b></span>
+<span>时间:<b>2018-02-25</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:492e0d1a7ef2b8ada64250fac3156010f1acd8fd&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20rips-HD%20Pack%20x20%28180224%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/rips/1/1/0.html" target="_blank">rips</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/180224/1/1/0.html" target="_blank">180224</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/0Krn5ObDc7qSy78Lbj6WxtD-tNK.html" target="_blank">ラグジュTV (<span class="red">259LUXU</span>) rips-HD Pack x20(180224)@RUNBKK </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>rips-HD/海贼王-751.mp4 <span class="lightColor">1.63 GB</span></li>
+<li>rips-HD/海贼王-752.mp4 <span class="lightColor">1.46 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>25.55 GB</b></span>
+<span>文件数:<b>52</b>个</span>
+<span>热度:<b>331</b></span>
+<span>时间:<b>2018-02-25</b></span>
+<span>最近下载:<b>1个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:206d7135895398fd1cf0f40796d3a0ef74fedd76&amp;dn=%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV%20%28259LUXU%29%20rips-HD%20Pack%20x20%28180224%29%40RUNBKK" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/rips/1/1/0.html" target="_blank">rips</a><a class="like-word" href="http://jijibt.net/jiji/Pack/1/1/0.html" target="_blank">Pack</a><a class="like-word" href="http://jijibt.net/jiji/180224/1/1/0.html" target="_blank">180224</a><a class="like-word" href="http://jijibt.net/jiji/RUNBKK/1/1/0.html" target="_blank">RUNBKK</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/gKAgpaQFbeR5Kcu_SU-XHVTJkoJ.html" target="_blank"><span class="red">259LUXU</span>-607-608-609 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-609.mp4 <span class="lightColor">5.73 GB</span></li>
+<li><span class="red">259LUXU</span>-607.mp4 <span class="lightColor">5.64 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>15.86 GB</b></span>
+<span>文件数:<b>6</b>个</span>
+<span>热度:<b>720</b></span>
+<span>时间:<b>2017-09-12</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:a8602ace46959686cd1a6e3f71efa10df745bb25&amp;dn=259LUXU-607-608-609" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/SXVOTsPV1kog_pIftArXh3WGWpB.html" target="_blank"><span class="red">259LUXU</span>-595-633-753-757 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-633.mkv <span class="lightColor">5.28 GB</span></li>
+<li><span class="red">259LUXU</span>-757.mkv <span class="lightColor">3.2 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>13.39 GB</b></span>
+<span>文件数:<b>8</b>个</span>
+<span>热度:<b>1754</b></span>
+<span>时间:<b>2017-08-27</b></span>
+<span>最近下载:<b>1个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:7217d877665f26ecaaff3129dc0d61acb8028331&amp;dn=259LUXU-595-633-753-757" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/4bkCCzQGv3U5ednBIoLkS_xJz71.html" target="_blank">第一會所新片@<span class="__cf_email__" data-cfemail="085b415b38383948">[email protected]</span>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-760)ラグジュTV_719_早川美緒_23歳_バレエ講師 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-760)ラグジュTV 719 早川美緒 23歳 バレエ講師.mp4 <span class="lightColor">6.13 GB</span></li>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-760)ラグジュTV 719 早川美緒 23歳 バレエ講師.jpg <span class="lightColor">184.11 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>6.13 GB</b></span>
+<span>文件数:<b>9</b>个</span>
+<span>热度:<b>3696</b></span>
+<span>时间:<b>2018-02-19</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:325b924bd682e4b78da27c411321ee73fec5f4f9&amp;dn=%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87%40SIS001%40%28259LUXU%29%28259LUXU-760%29%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV_719_%E6%97%A9%E5%B7%9D%E7%BE%8E%E7%B7%92_23%E6%AD%B3_%E3%83%90%E3%83%AC%E3%82%A8%E8%AC%9B%E5%B8%AB" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87/1/1/0.html" target="_blank">第一會所新片</a><a class="like-word" href="http://jijibt.net/jiji/SIS001/1/1/0.html" target="_blank">SIS001</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/%E6%97%A9%E5%B7%9D%E7%BE%8E%E7%B7%92/1/1/0.html" target="_blank">早川美緒</a><a class="like-word" href="http://jijibt.net/jiji/23%E6%AD%B3/1/1/0.html" target="_blank">23歳</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%90%E3%83%AC%E3%82%A8%E8%AC%9B%E5%B8%AB/1/1/0.html" target="_blank">バレエ講師</a></span></div>
+</div>
+</div>
+<div class="pager"><span>共67页</span> <a href="http://jijibt.net/jiji/259luxu/1/2/0.html">&lt;&lt;</a> <a href="http://jijibt.net/jiji/259luxu/1/2/0.html">1</a> <span>2</span> <a href="http://jijibt.net/jiji/259luxu/3/2/0.html">3</a> <a href="http://jijibt.net/jiji/259luxu/4/2/0.html">4</a> <a href="http://jijibt.net/jiji/259luxu/5/2/0.html">5</a> <a href="http://jijibt.net/jiji/259luxu/67/2/0.html">67</a> <a href="http://jijibt.net/jiji/259luxu/3/2/0.html">&gt;&gt;</a></div>
+</div>
+</div>
+<div class="footer"><script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="http://dl.8ox.cn/pge/?s=52234"></script><script src="http://89.8ox.cn/pge/?s=52236"></script><span>copyright © 2017 <a href="http://jijibt.net/index.html" rel="nofollow">jijibt.com</a> 版权所有</span> <a href="http://jijibt.net/seedsmore.html" target="_blank">热门种子</a> <a href="http://jijibt.net/nowupdate.html" target="_blank">最新资源</a>
+</div>
+<script charset="gbk" src="http://www.baidu.com/js/opensug.js" type="text/javascript"></script>
+<script type="text/javascript">var params = {"XOffset": 0,"YOffset": 0,"fontColor": "#444","fontColorHI": "#000","fontSize": "16px","fontFamily": "arial","borderColor": "62230f","bgcolorHI": "#ebebeb","sugSubmit": true};BaiduSuggestion.bind("search", params);</script>
+<script src="http://jijibt.net/static/js/xmp.js?v=0.00013" type="text/javascript"></script>
+<script src="http://jijibt.net/static/js/jijibt.js?v=0.00013" type="text/javascript"></script>
+<span style="display:none;"><script src="http://s11.cnzz.com/z_stat.php?id=1261064166&amp;web_id=1261064166"></script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2324cf670c85735b70386e392c215f61";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</span>
+<span style="display:none;">
+Created at 2018-04-23 01:18:07 by jijibt.com 吉吉BT网;
+Execution Time：0.0251629353sec
+</span>
+</body>
+</html>

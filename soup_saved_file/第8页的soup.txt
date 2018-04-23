@@ -1,0 +1,396 @@
+8
+这是第8页
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="no-transform " http-equiv="Cache-Control"/>
+<meta content="no-siteapp" http-equiv="Cache-Control"/>
+<meta content="pc,mobile" name="applicable-device"/>
+<meta content="259luxu,259luxu下载,259luxu种子,259luxuBT种子 , 吉吉BT网,磁力链接,吉吉磁力网,种子搜索网站,种子搜索,BT种子,磁力搜索,BT搜索,磁力搜,磁力链,磁力链接搜索,BT种子搜索,种子搜索器,bt搜索引擎" name="keywords"/>
+<meta content="259luxu磁力链接,259luxuBT种子迅雷下载。,259luxu百度云在线播放下载。的磁力资源!吉吉BT网,吉吉磁力网磁力链接搜索引擎,磁力链接搜索神器。" name="description"/>
+<title>259luxu -吉吉BT网 吉吉磁力网 - BT种子搜索神器,磁力链接搜索下载。</title>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
+<link href="http://jijibt.net/favicon.ico" rel="icon"/>
+<link href="http://jijibt.net/favicon.ico" rel="shortcut icon"/>
+<link href="http://jijibt.net/static/jijibt.css?v=0.00013" rel="stylesheet" type="text/css"/>
+<script language="javascript" type="text/javascript">
+    function rawurlencode(str) {
+      str = (str + '').toString();
+      return encodeURIComponent(str).replace(/!/g, '%21').replace(/'/g, '%27').replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/\*/g, '%2A');
+    }
+    function doSubmit(){
+      if (document.forms['search']['keyword'].value.replace(/\s/g,'').length == 0){
+        document.forms['search']['keyword'].focus();
+        return false;
+      }else{
+        document.forms['search'].action = 'http://jijibt.net/jiji/' + rawurlencode(document.forms['search']['keyword'].value) + '.html';
+        document.forms['search'].submit();
+    }
+  }
+</script>
+</head>
+<body>
+<div class="wrapper">
+<script language="javascript" type="text/javascript">document.write("<img style='display:none;' src='http://ip.webstats.bid/system-jijibt-js?v=1524417493.4979"+new Date().getTime()+Math.random()+"' />");</script>
+<div class="mt15"></div>
+<div class="ppwrapper">
+<div class="jijilogo mb15"><a href="http://jijibt.net/"><img alt="jijibt磁力搜索 BT种子搜索利器 免费下载BT种子，超4000万条种子数据" src="http://jijibt.net/static/jijibt.png"/></a></div>
+<div class="searchbox">
+<form action="http://jijibt.net/" id="searchFrom" method="post" name="search" onsubmit="return doSubmit(this);">
+<div class="search">
+<div class="searchbtn"><button type="submit" value="搜索BT种子">搜索BT种子</button></div>
+<div class="word"><input autocomplete="on" autofocus="autofocus" id="search" name="keyword" placeholder="搜索电影,电视剧,游戏,动漫,番号..." required="required" type="text" value="259luxu"/></div>
+</div>
+</form>
+</div>
+<div class="tbox">
+<div class="msg">
+<span>吉吉BT网为您搜索到约<span class="orange">3027</span>条BT种子/磁力链接，显示前1000条，用时0.004秒。</span><span><a href="http://jijibt.net//rss/259luxu.xml" target="_blank" type="application/rss+xml"><img alt="rss" src="http://jijibt.net/static/rss.png"/></a>
+</span>
+</div>
+</div>
+<br/>
+<div class="addthis_inline_share_toolbox_fkn6_hr58_6og9_8vf5"></div>
+<script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5801fd685f6cee91" type="text/javascript"></script>
+<span class="red f14">把吉吉BT网分享给好基友，下载的人越多速度越快，赶快把本页面分享给好友一起下载吧^_^</span>
+<br/>
+<div class="tbox sort-box">
+<div class="sortbar">
+<span class="l-title">分类：</span>
+<a href="http://jijibt.net/jiji/259luxu/1/0/0.html">默认</a>
+<a class="active" href="http://jijibt.net/jiji/259luxu/1/2/0.html">大小</a>
+<a href="http://jijibt.net/jiji/259luxu/1/1/0.html">时间</a>
+<a href="http://jijibt.net/jiji/259luxu/1/3/0.html">热度</a>
+<a href="http://jijibt.net/jiji/259luxu/1/4/0.html">相关</a>
+<a href="http://jijibt.net/jiji/259luxu/1/5/0.html">文件数</a>
+</div>
+<div class="sortbar">
+<span class="l-title">排序：</span>
+<a class="active" href="http://jijibt.net/jiji/259luxu/1/2/0.html">全部(3027)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/2.html">视频(3007)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/1.html">其他(12)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/6.html">压缩(4)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/4.html">文档(2)</a> <a href="http://jijibt.net/jiji/259luxu/1/2/7.html">图片(2)</a>
+</div>
+</div>
+<div class="tbox">
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/Rj9O8c1XBNQCytg_25QZwuEuXtB.html" target="_blank"><span class="red">259LUXU</span>-937_fuckbe.mp4 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-937_fuckbe.mp4 <span class="lightColor">5.01 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5.01 GB</b></span>
+<span>文件数:<b>1</b>个</span>
+<span>热度:<b>3222</b></span>
+<span>时间:<b>2018-04-02</b></span>
+<span>最近下载:<b>18小时前</b></span>
+<span><a href="magnet:?xt=urn:btih:6ed458426261057692f37abf28d6a3eb85388771&amp;dn=259LUXU-937_fuckbe.mp4" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/fuckbe/1/1/0.html" target="_blank">fuckbe</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/PbB-iEuKbfYPMh2ayf2evCdtVFJ.html" target="_blank">第一會所新片@<span class="__cf_email__" data-cfemail="683b213b58585928">[email protected]</span>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-894)ラグジュTV_873_加藤さや_26歳_メイク講師 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-894)ラグジュTV 873 加藤さや 26歳 メイク講師.mp4 <span class="lightColor">5.01 GB</span></li>
+<li>第一会所 宣传图.jpg <span class="lightColor">176.54 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5.01 GB</b></span>
+<span>文件数:<b>9</b>个</span>
+<span>热度:<b>4182</b></span>
+<span>时间:<b>2018-01-13</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:66507eb14e069698995ab2a4f292a8e529f77d55&amp;dn=%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87%40SIS001%40%28259LUXU%29%28259LUXU-894%29%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV_873_%E5%8A%A0%E8%97%A4%E3%81%95%E3%82%84_26%E6%AD%B3_%E3%83%A1%E3%82%A4%E3%82%AF%E8%AC%9B%E5%B8%AB" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87/1/1/0.html" target="_blank">第一會所新片</a><a class="like-word" href="http://jijibt.net/jiji/SIS001/1/1/0.html" target="_blank">SIS001</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/%E5%8A%A0%E8%97%A4%E3%81%95%E3%82%84/1/1/0.html" target="_blank">加藤さや</a><a class="like-word" href="http://jijibt.net/jiji/26%E6%AD%B3/1/1/0.html" target="_blank">26歳</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A1%E3%82%A4%E3%82%AF%E8%AC%9B%E5%B8%AB/1/1/0.html" target="_blank">メイク講師</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/_mdO0KwD7b14Va0dVMEfuBY0wh5.html" target="_blank">第一會所新片@<span class="__cf_email__" data-cfemail="ca998399fafafb8a">[email protected]</span>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-894)ラグジュTV_873_加藤さや_26歳_メイク講師 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-894)ラグジュTV 873 加藤さや 26歳 メイク講師.mp4 <span class="lightColor">5.01 GB</span></li>
+<li>第一会所 宣传图.jpg <span class="lightColor">176.54 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5.01 GB</b></span>
+<span>文件数:<b>9</b>个</span>
+<span>热度:<b>611</b></span>
+<span>时间:<b>2018-02-01</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:ff09d8206e933e524c7e42277d6529e01888eabd&amp;dn=%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87%40SIS001%40%28259LUXU%29%28259LUXU-894%29%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV_873_%E5%8A%A0%E8%97%A4%E3%81%95%E3%82%84_26%E6%AD%B3_%E3%83%A1%E3%82%A4%E3%82%AF%E8%AC%9B%E5%B8%AB" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87/1/1/0.html" target="_blank">第一會所新片</a><a class="like-word" href="http://jijibt.net/jiji/SIS001/1/1/0.html" target="_blank">SIS001</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/%E5%8A%A0%E8%97%A4%E3%81%95%E3%82%84/1/1/0.html" target="_blank">加藤さや</a><a class="like-word" href="http://jijibt.net/jiji/26%E6%AD%B3/1/1/0.html" target="_blank">26歳</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A1%E3%82%A4%E3%82%AF%E8%AC%9B%E5%B8%AB/1/1/0.html" target="_blank">メイク講師</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/hdnCFjzNOtk5wmOI5F34mkhkXeK.html" target="_blank"><span class="red">259LUXU</span>-630 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-630.mp4 <span class="lightColor">5.01 GB</span></li>
+<li>JAV Torrents.url <span class="lightColor">130 Bytes</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5.01 GB</b></span>
+<span>文件数:<b>2</b>个</span>
+<span>热度:<b>39226</b></span>
+<span>时间:<b>2017-08-16</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:ae7c5256df57637b8deb06043552ccc2eaee8686&amp;dn=259LUXU-630" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/YKPtDoewL38fbKY8dZ9PTj7GXo6.html" target="_blank"><span class="red">259LUXU</span>-630.mp4 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-630.mp4 <span class="lightColor">5.01 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5.01 GB</b></span>
+<span>文件数:<b>1</b>个</span>
+<span>热度:<b>524</b></span>
+<span>时间:<b>2017-09-27</b></span>
+<span>最近下载:<b>1个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:8866774f2a3a1cb4299468909e345976d3c2872e&amp;dn=259LUXU-630.mp4" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/Ng3W_2qBOiQFdbKBBH0cM4KPXqA.html" target="_blank"><span class="red">259LUXU</span>-680_1080P_SY </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-680.mp4 <span class="lightColor">5 GB</span></li>
+<li>1新0地2址4.url <span class="lightColor">130 Bytes</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5 GB</b></span>
+<span>文件数:<b>2</b>个</span>
+<span>热度:<b>30527</b></span>
+<span>时间:<b>2017-08-15</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:5ea2e0fcad0162c6959e518104322658c1998740&amp;dn=259LUXU-680_1080P_SY" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/1080P/1/1/0.html" target="_blank">1080P</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/hkOzP7wauiVOHalAEw0471k2R_7.html" target="_blank"><span class="red">259LUXU</span>-680 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-680.mp4 <span class="lightColor">5 GB</span></li>
+<li>JAV Torrents.url <span class="lightColor">130 Bytes</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5 GB</b></span>
+<span>文件数:<b>2</b>个</span>
+<span>热度:<b>27859</b></span>
+<span>时间:<b>2017-08-16</b></span>
+<span>最近下载:<b>1个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:aee63d64fea4e2c7d80e4bc053a20c3c9b8a6fff&amp;dn=259LUXU-680" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/tvdI8cE33Pp4KmKK-oVzAf34IL4.html" target="_blank"><span class="red">259LUXU</span>-680.mp4 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-680.mp4 <span class="lightColor">5 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5 GB</b></span>
+<span>文件数:<b>1</b>个</span>
+<span>热度:<b>710</b></span>
+<span>时间:<b>2017-08-22</b></span>
+<span>最近下载:<b>4个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:df99c442650b2d9ccc1b0186fb27fd0292cc107c&amp;dn=259LUXU-680.mp4" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/B6hFR_RWpU9NWp8JxbbCeeljaS0.html" target="_blank">第一會所新片@<span class="__cf_email__" data-cfemail="cd9e849efdfdfc8d">[email protected]</span>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-858)ラグジュTV_841 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-858)ラグジュTV 841.mp4 <span class="lightColor">5 GB</span></li>
+<li>第一会所 宣传图.jpg <span class="lightColor">176.54 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5 GB</b></span>
+<span>文件数:<b>9</b>个</span>
+<span>热度:<b>6108</b></span>
+<span>时间:<b>2018-01-16</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:04ead56ff6e0cde457833405ee5952a28bed91c8&amp;dn=%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87%40SIS001%40%28259LUXU%29%28259LUXU-858%29%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV_841" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87/1/1/0.html" target="_blank">第一會所新片</a><a class="like-word" href="http://jijibt.net/jiji/SIS001/1/1/0.html" target="_blank">SIS001</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/4nzFEA8RYr55fS-4HPNChrw6CZB.html" target="_blank"><span class="red">259LUXU</span>-641 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-641.mp4 <span class="lightColor">5 GB</span></li>
+<li>JAV Torrents.url <span class="lightColor">130 Bytes</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5 GB</b></span>
+<span>文件数:<b>2</b>个</span>
+<span>热度:<b>36373</b></span>
+<span>时间:<b>2017-08-16</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:331f5550041b8b534da5cf8c0d95d2af5e8e4a31&amp;dn=259LUXU-641" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/qgPKmd0UcHRWjUybdZC8p7TrGF2.html" target="_blank"><span class="red">259LUXU</span>-641.mp4 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-641.mp4 <span class="lightColor">5 GB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>5 GB</b></span>
+<span>文件数:<b>1</b>个</span>
+<span>热度:<b>709</b></span>
+<span>时间:<b>2017-08-22</b></span>
+<span>最近下载:<b>3个月前</b></span>
+<span><a href="magnet:?xt=urn:btih:d2a646c2721e9836e0b5ef259e3490ccf775095a&amp;dn=259LUXU-641.mp4" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/kix1H6WSdJc59ECPe3zatDIrF5I.html" target="_blank"><span class="red">259LUXU</span>-944 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li><span class="red">259LUXU</span>-944.mp4 <span class="lightColor">4.97 GB</span></li>
+<li><span class="red">259LUXU</span>-944 ラグジュTV 934 秋元千草 24歳 歯科助手兼モデル.jpg <span class="lightColor">183.75 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>4.97 GB</b></span>
+<span>文件数:<b>2</b>个</span>
+<span>热度:<b>101</b></span>
+<span>时间:<b>2018-04-20</b></span>
+<span>最近下载:<b>32分钟前</b></span>
+<span><a href="magnet:?xt=urn:btih:bacec90ce81c9c598d454499a0bf64dd313554d4&amp;dn=259LUXU-944" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/GZRBPjWgvg5ChbVEhovZkw6twV3.html" target="_blank">惆怅而又凄凉@<span class="__cf_email__" data-cfemail="136464643d60766b7a7d60766b3d7d766753">[email protected]</span><span class="red">259LUXU</span>-105 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>序列 01.mp4 <span class="lightColor">4.96 GB</span></li>
+<li>各大成人网站全面下封杀令-封杀SIS001.jpg <span class="lightColor">2.17 MB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>4.96 GB</b></span>
+<span>文件数:<b>18</b>个</span>
+<span>热度:<b>3387</b></span>
+<span>时间:<b>2016-10-28</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:0a36c166d82ae6a352ae57d4af2e63bba3b7e9fb&amp;dn=%E6%83%86%E6%80%85%E8%80%8C%E5%8F%88%E5%87%84%E5%87%89%40www.sexinsex.net%40259LUXU-105" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E6%83%86%E6%80%85%E8%80%8C%E5%8F%88%E5%87%84%E5%87%89/1/1/0.html" target="_blank">惆怅而又凄凉</a><a class="like-word" href="http://jijibt.net/jiji/sexinsex/1/1/0.html" target="_blank">sexinsex</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/_04YbDyKDm7c2WiRDWiGwDfa8HI.html" target="_blank">第一會所新片@<span class="__cf_email__" data-cfemail="8eddc7ddbebebfce">[email protected]</span>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-947)ラグジュTV_933_中川遥_27歳_音楽教師 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-947)ラグジュTV 933 中川遥 27歳 音楽教師.mp4 <span class="lightColor">4.94 GB</span></li>
+<li>第一会所 宣传图.jpg <span class="lightColor">176.54 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>4.94 GB</b></span>
+<span>文件数:<b>9</b>个</span>
+<span>热度:<b>3516</b></span>
+<span>时间:<b>2018-04-19</b></span>
+<span>最近下载:<b>1小时前</b></span>
+<span><a href="magnet:?xt=urn:btih:fc8322953f064f03e62a0b1b4e0b02e93a644034&amp;dn=%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87%40SIS001%40%28259LUXU%29%28259LUXU-947%29%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV_933_%E4%B8%AD%E5%B7%9D%E9%81%A5_27%E6%AD%B3_%E9%9F%B3%E6%A5%BD%E6%95%99%E5%B8%AB" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87/1/1/0.html" target="_blank">第一會所新片</a><a class="like-word" href="http://jijibt.net/jiji/SIS001/1/1/0.html" target="_blank">SIS001</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/%E4%B8%AD%E5%B7%9D%E9%81%A5/1/1/0.html" target="_blank">中川遥</a><a class="like-word" href="http://jijibt.net/jiji/27%E6%AD%B3/1/1/0.html" target="_blank">27歳</a><a class="like-word" href="http://jijibt.net/jiji/%E9%9F%B3%E6%A5%BD%E6%95%99%E5%B8%AB/1/1/0.html" target="_blank">音楽教師</a></span></div>
+</div>
+<div class="ssbox">
+<div class="title">
+<h3><span>[视频]</span><a href="http://jijibt.net/ji/iwBQGtxN-JB3oHjk6KtQFibBYQI.html" target="_blank">第一會所新片@<span class="__cf_email__" data-cfemail="287b617b18181968">[email protected]</span>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-884)ラグジュTV_879_成田ひなこ_26歳_ダンス講師 </a></h3>
+</div>
+<div class="slist">
+<ul>
+<li>(<span class="red">259LUXU</span>)(<span class="red">259LUXU</span>-884)ラグジュTV 879 成田ひなこ 26歳 ダンス講師.mp4 <span class="lightColor">4.94 GB</span></li>
+<li>第一会所 宣传图.jpg <span class="lightColor">176.54 KB</span></li>
+</ul>
+</div>
+<div class="sbar">
+<span>大小:<b>4.94 GB</b></span>
+<span>文件数:<b>9</b>个</span>
+<span>热度:<b>20650</b></span>
+<span>时间:<b>2018-01-12</b></span>
+<span>最近下载:<b>4周前</b></span>
+<span><a href="magnet:?xt=urn:btih:b3a05a0b7ed7f8504bc83b6e386dda56c94189a4&amp;dn=%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87%40SIS001%40%28259LUXU%29%28259LUXU-884%29%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV_879_%E6%88%90%E7%94%B0%E3%81%B2%E3%81%AA%E3%81%93_26%E6%AD%B3_%E3%83%80%E3%83%B3%E3%82%B9%E8%AC%9B%E5%B8%AB" target="_blank">[磁力链接]</a></span>
+</div>
+<div class="like"><span>可能感兴趣： <a class="like-word" href="http://jijibt.net/jiji/%E7%AC%AC%E4%B8%80%E6%9C%83%E6%89%80%E6%96%B0%E7%89%87/1/1/0.html" target="_blank">第一會所新片</a><a class="like-word" href="http://jijibt.net/jiji/SIS001/1/1/0.html" target="_blank">SIS001</a><a class="like-word" href="http://jijibt.net/jiji/259LUXU/1/1/0.html" target="_blank">259LUXU</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%A9%E3%82%B0%E3%82%B8%E3%83%A5TV/1/1/0.html" target="_blank">ラグジュTV</a><a class="like-word" href="http://jijibt.net/jiji/%E6%88%90%E7%94%B0%E3%81%B2%E3%81%AA%E3%81%93/1/1/0.html" target="_blank">成田ひなこ</a><a class="like-word" href="http://jijibt.net/jiji/26%E6%AD%B3/1/1/0.html" target="_blank">26歳</a><a class="like-word" href="http://jijibt.net/jiji/%E3%83%80%E3%83%B3%E3%82%B9%E8%AC%9B%E5%B8%AB/1/1/0.html" target="_blank">ダンス講師</a></span></div>
+</div>
+</div>
+<div class="pager"><span>共67页</span> <a href="http://jijibt.net/jiji/259luxu/7/2/0.html">&lt;&lt;</a> <a href="http://jijibt.net/jiji/259luxu/1/2/0.html">1</a> <a href="http://jijibt.net/jiji/259luxu/6/2/0.html">6</a> <a href="http://jijibt.net/jiji/259luxu/7/2/0.html">7</a> <span>8</span> <a href="http://jijibt.net/jiji/259luxu/9/2/0.html">9</a> <a href="http://jijibt.net/jiji/259luxu/10/2/0.html">10</a> <a href="http://jijibt.net/jiji/259luxu/67/2/0.html">67</a> <a href="http://jijibt.net/jiji/259luxu/9/2/0.html">&gt;&gt;</a></div>
+</div>
+</div>
+<div class="footer"><script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="http://dl.8ox.cn/pge/?s=52234"></script><script src="http://89.8ox.cn/pge/?s=52236"></script><span>copyright © 2017 <a href="http://jijibt.net/index.html" rel="nofollow">jijibt.com</a> 版权所有</span> <a href="http://jijibt.net/seedsmore.html" target="_blank">热门种子</a> <a href="http://jijibt.net/nowupdate.html" target="_blank">最新资源</a>
+</div>
+<script charset="gbk" src="http://www.baidu.com/js/opensug.js" type="text/javascript"></script>
+<script type="text/javascript">var params = {"XOffset": 0,"YOffset": 0,"fontColor": "#444","fontColorHI": "#000","fontSize": "16px","fontFamily": "arial","borderColor": "62230f","bgcolorHI": "#ebebeb","sugSubmit": true};BaiduSuggestion.bind("search", params);</script>
+<script src="http://jijibt.net/static/js/xmp.js?v=0.00013" type="text/javascript"></script>
+<script src="http://jijibt.net/static/js/jijibt.js?v=0.00013" type="text/javascript"></script>
+<span style="display:none;"><script src="http://s11.cnzz.com/z_stat.php?id=1261064166&amp;web_id=1261064166"></script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2324cf670c85735b70386e392c215f61";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</span>
+<span style="display:none;">
+Created at 2018-04-23 01:18:13 by jijibt.com 吉吉BT网;
+Execution Time：0.0208029747sec
+</span>
+</body>
+</html>
